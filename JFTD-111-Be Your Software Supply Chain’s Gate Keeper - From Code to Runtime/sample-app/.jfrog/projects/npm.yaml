@@ -1,0 +1,8 @@
+version: 1
+type: npm
+resolver:
+    repo: shani-npm-remote-curation
+    serverId: solengdemo
+deployer:
+    repo: shani-npm-local
+    serverId: solengdemo

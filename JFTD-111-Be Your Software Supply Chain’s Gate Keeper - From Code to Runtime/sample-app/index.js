@@ -10,6 +10,9 @@ const path = require("path");
  /**
  * App Variables
  */
+
+//Object.freeze(Object.prototype);
+
 const app = express();
 const port = process.env.PORT || "3000";
 /**
