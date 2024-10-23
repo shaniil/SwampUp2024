@@ -22,4 +22,5 @@
 * jfrog rt npm-publish --build-name=ZenNodeProject --build-number=1.0.1
 * jfrog rt build-publish ZenNodeProject 1.0.1
 * Test
-* Good luck .. you'll need it 
+* Good luck .. you'll need it
+* TEST
